@@ -15,4 +15,4 @@ NodeJS <br>
 
 ## Links
 [GitHub](https://github.com/OscarP76/week13-ORM-Homework)
-[WalkThrough]()
+[WalkThrough](https://youtu.be/aDR4cJzRc-U)
