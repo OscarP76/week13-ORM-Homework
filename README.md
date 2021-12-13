@@ -3,7 +3,7 @@
 ## Summary
 This is an e-commerce backend project I created. <br>
 Using Insomnia to display route functionality. <br>
-Including a walkthrough video. <br>
+Enjoy walkthrough demonstration video. <br>
 
 ## Languages Used
 JavaScript <br>
@@ -15,3 +15,4 @@ NodeJS <br>
 
 ## Links
 [GitHub](https://github.com/OscarP76/week13-ORM-Homework)
+[WalkThrough]()
