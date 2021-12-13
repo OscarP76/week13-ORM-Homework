@@ -1,7 +1,9 @@
 # week13-ORM-Homework
 
 ## Summary
-This is an e-commerce backend project I created.
+This is an e-commerce backend project I created. <br>
+Using Insomnia to display route functionality. <br>
+Including a walkthrough video. <br>
 
 ## Languages Used
 JavaScript <br>
