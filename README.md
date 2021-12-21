@@ -13,6 +13,24 @@ MySql2 <br>
 ExpressJS <br>
 NodeJS <br>
 
+## Code Snippet
+```
+const router = require('express').Router();
+const { Category, Product } = require('../../models');
+
+
+router.get('/', async (req, res) => {
+  try {
+    const category = await Category.findAll({
+      include: [{ model: Product }],
+    });
+    res.status(200).json(category);
+  } catch (err) {
+    res.status(500).json(err);
+  }
+});
+```
+
 ## Links
 [GitHub](https://github.com/OscarP76/week13-ORM-Homework)
 [WalkThrough](https://youtu.be/aDR4cJzRc-U)
